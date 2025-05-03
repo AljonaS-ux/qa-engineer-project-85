@@ -1,0 +1,79 @@
+- summary: |
+    Проверка входа пользователя с несуществующими логином и паролем
+  status: pass
+
+- summary: |
+    Регистрация нового пользователя с валидными данными
+  status: pass
+
+- summary: |
+    Вход и выход из системы с корректными данными
+  status: pass
+
+- summary: |
+    Восстановление пароля через email
+  status: pass
+
+- summary: |
+    Смена пароля в личном кабинете
+  status: pass
+
+- summary: |
+    Создание новой игры с выбранным уровнем сложности
+  status: pass
+
+- summary: |
+    Приглашение друга по ссылке на игру
+  status: pass
+
+- summary: |
+    Одновременное отображение редактора кода и вывода тестов в реальном времени
+  status: pass
+
+- summary: |
+    Смена языка программирования во время матча
+  status: pass
+
+- summary: |
+    Наблюдение за чужой игрой (spectator mode)
+  status: pass
+
+- summary: |
+    Проверка работы чата внутри игры
+  status: pass
+
+- summary: |
+    Воспроизведение завершённой игры через проигрыватель
+  status: pass
+
+- summary: |
+    Просмотр очков и рейтинга за разные периоды
+  status: pass
+
+- summary: |
+    Замер времени ответа API на обычном сценарии
+  status: pass
+
+- summary: |
+    Проверка адаптивности интерфейса на мобильных устройствах
+  status: pass
+
+- summary: |
+    Проверка шифрования данных при передаче
+  status: pass
+
+- summary: |
+    Проверка локализации интерфейса
+  status: pass
+
+- summary: |
+    Проверка наличия CONTRIBUTING.md и процесса pull request
+  status: pass
+
+- summary: |
+    Проверка активности Telegram-канала разработчиков
+  status: pass
+
+- summary: |
+    Проверка работоспособности Chrome-extension
+  status: pass
