@@ -16,7 +16,7 @@
 
 - summary: |
     Смена пароля в личном кабинете
-  status: pass
+  status: fail
 
 - summary: |
     Создание новой игры с выбранным уровнем сложности
@@ -28,7 +28,7 @@
 
 - summary: |
     Одновременное отображение редактора кода и вывода тестов в реальном времени
-  status: pass
+  status: fail
 
 - summary: |
     Смена языка программирования во время матча
@@ -36,7 +36,7 @@
 
 - summary: |
     Наблюдение за чужой игрой (spectator mode)
-  status: pass
+  status: fail
 
 - summary: |
     Проверка работы чата внутри игры
@@ -48,31 +48,19 @@
 
 - summary: |
     Просмотр очков и рейтинга за разные периоды
-  status: pass
-
-- summary: |
-    Замер времени ответа API на обычном сценарии
-  status: pass
+  status: fail
 
 - summary: |
     Проверка адаптивности интерфейса на мобильных устройствах
   status: pass
 
 - summary: |
-    Проверка шифрования данных при передаче
-  status: pass
-
-- summary: |
-    Проверка локализации интерфейса
-  status: pass
-
-- summary: |
-    Проверка наличия CONTRIBUTING.md и процесса pull request
+    Проверка перевода задач на английский и русский язык
   status: pass
 
 - summary: |
     Проверка активности Telegram-канала разработчиков
-  status: pass
+  status: fail
 
 - summary: |
     Проверка работоспособности Chrome-extension
