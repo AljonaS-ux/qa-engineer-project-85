@@ -15,10 +15,6 @@
   status: pass
 
 - summary: |
-    Смена пароля в личном кабинете
-  status: fail
-
-- summary: |
     Создание новой игры с выбранным уровнем сложности
   status: pass
 
