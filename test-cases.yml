@@ -42,7 +42,7 @@
   prerequisites: |
     Пользователь авторизован и находится на главной странице
   test-data: |
-     Email = user@example.com  
+    Email = user@example.com  
     Password = StrongPass123$
   steps:
     - Нажимаем на аватарку в правом верхнем углу
