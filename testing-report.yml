@@ -1,5 +1,5 @@
 - summary: |
-    Регистрация нового пользователя с валидными данными
+    Успешная регистрация нового пользователя с валидными данными
   status: pass
 
 - summary: |
@@ -8,6 +8,14 @@
 
 - summary: |
     Выход из системы
+  status: pass
+
+- summary: |
+    Вход пользователя через валидный GitHub аккаунт
+  status: pass
+
+- summary: |
+    Вход пользователя через валидный Discord аккаунт
   status: pass
   
 - summary: |
@@ -19,9 +27,19 @@
   status: pass
 
 - summary: |
+    Создание пробной игры
+  status: fail
+
+- summary: |
     Создание новой игры с выбранным уровнем сложности
   status: pass
 
+- summary: |
+    Участие пользователя в турнире
+  status: pass
+
+   Приглашение друга в игру из списка
+   
 - summary: |
     Приглашение друга по ссылке на игру
   status: pass
@@ -35,17 +53,41 @@
   status: pass
 
 - summary: |
+    Возможность создавать турнир
+  status: pass
+
+- summary: |
+    Просмотр списка завершённых игр пользователя
+  status: pass
+
+- summary: |
+    Вступление пользователя в клан
+  status: fail
+  
+- summary: |
     Наблюдение за чужой игрой (spectator mode)
   status: fail
 
 - summary: |
     Проверка работы чата внутри игры
   status: pass
+  
+- summary: |
+    Приглашение игрока на дуэль через чат
+  status: pass
 
 - summary: |
     Воспроизведение завершённой игры через проигрыватель
   status: pass
-
+  
+- summary: |
+    Изменение настроек профиля пользователя
+  status: pass
+  
+- summary: |
+    Проверка пагинации в общем рейтинге пользователей
+  status: pass
+  
 - summary: |
     Просмотр рейтинга за неделю
   status: fail
@@ -75,29 +117,5 @@
   status: pass
 
 - summary: |
-    Участие пользователя в турнире
-  status: pass
-  
-- summary: |
-    Вступление пользователя в клан
-  status: fail
-
-- summary: |
-    Изменение настроек профиля пользователя
-  status: pass
-
-- summary: |
-    Вход пользователя через GitHub
-  status: pass
-
-- summary: |
-    Вход пользователя через Discord
-  status: pass
-
-- summary: |
-    Приглашение игрока на дуэль через чат
-  status: pass
-
-- summary: |
-    Проверка пагинации в рейтинге всех пользователей
+    Проверка использования HTTPS на сайте
   status: pass
