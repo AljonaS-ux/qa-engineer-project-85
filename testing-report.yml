@@ -161,7 +161,7 @@
 
 - summary: |
     Проверка активности Telegram-канала разработчиков
-  status: fail
+  status: pass
 
 - summary: |
     Проверка работоспособности Chrome-extension
