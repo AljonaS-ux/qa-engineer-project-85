@@ -777,7 +777,7 @@
   prerequisites: |
     Доступ в Telegram
   test-data: |
-    Ссылка = https://t.me/codebattle
+    Ссылка = https://t.me/hexletcommunity/5
   steps:
     - Перейти по ссылке в браузере или мобильном приложении  
     - Убедиться, что канал существует и появляются новые сообщения
